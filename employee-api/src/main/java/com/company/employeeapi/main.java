@@ -6,10 +6,10 @@ import java.util.Scanner;
 
 public class main {
     public static void main(String[] args) {
-        // Instantiate the EmployeeController
+        //  EmployeeController
         EmployeeController employeeController = new EmployeeController();
 
-        // Create a Scanner object for user input
+        //  Scanner object for user input
         Scanner scanner = new Scanner(System.in);
 
         // Get employee details
